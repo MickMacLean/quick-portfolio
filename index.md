@@ -2,9 +2,8 @@
 
 ---
 
-### Category Name 1 
-#### An investigation into photometric emissions of low-mass stellar objects via observational data from the WIYN 0.9m optical telescope in Kitt Peak, AZ.
-[Optical Astronomy Research](/sample_page)
+### [Optical Astronomy Research](/sample_page)
+An investigation into photometric emissions of low-mass stellar objects via observational data from the WIYN 0.9m optical telescope in Kitt Peak, AZ.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
